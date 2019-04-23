@@ -1,6 +1,6 @@
 ## Export MySQL query data to GoogleSheets using Python
 
-##### Repository URL: https://know.tirth.dev/MySQL-to-GoogleSheets-Python/
+##### Project website: https://know.tirth.dev/MySQL-to-GoogleSheets-Python/
 
 ### Description
 Executes a query on MySQL database, gets the data, creates a tab in a Google Sheet and dumps the data there
