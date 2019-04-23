@@ -31,13 +31,13 @@ To run this package, you'll need:
     7. If this is your first time creating a client ID, you can also configure your consent screen by clicking **Consent Screen**. You won't be prompted to configure the consent screen after you do it the first time.
     8. Click **Create client ID**
     9. Download the newly created oAuth2.0 client id as JSON
-    10. Put the json file in project folder with name **credentials.json**  
+    10. Put the json file in src folder with name **credentials.json**  
  
     Refer [this](https://support.google.com/googleapi/answer/6158849?hl=en) for more help.
 
 ### How to use this script
 
-1. Follow instructions in **[automate.py](automate.py)**
+1. Follow instructions in **[automate.py](src/automate.py)**
 2. After you have made all the required changes
 3. Open terminal in the project directory and execute below command
     ```
